@@ -1,0 +1,6 @@
+# application.yml
+spring:
+  application:
+    name: S2
+server: 
+  port: 8082

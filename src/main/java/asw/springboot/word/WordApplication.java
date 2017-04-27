@@ -1,12 +1,12 @@
-package it.uniroma3;
+package asw.springboot.word;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class FilmStreamingApplication {
+public class WordApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(FilmStreamingApplication.class, args);
+		SpringApplication.run(WordApplication.class, args);
 	}
 }
